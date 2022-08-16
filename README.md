@@ -1,6 +1,6 @@
 ## Welcome
 
-**Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![Facebook主页](https://raw.githubusercontent.com/overlordyu/support_cn/main/Facebook.jpg =10x10)
+**Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![Facebook主页](https://raw.githubusercontent.com/overlordyu/support_cn/main/Facebook.jpg)
 
 **Twitter**主页：**Overlord_yu** ![Twitter主页](https://github.com/overlordyu/support_cn/blob/main/twitter.jpg)
 
