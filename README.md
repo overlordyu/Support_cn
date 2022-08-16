@@ -2,6 +2,11 @@
 
 logo:![Image](https://note.youdao.com/yws/res/54266/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6)
 
+**隐私政策（中文版）**：https://overlordyu.github.io/privacy-policy_cn/
+**隐私政策（English）**：https://overlordyu.github.io/privacy-policy_en/
+**技术支持（中文版）**：https://overlordyu.github.io/support_cn/
+**技术支持（English）**：https://overlordyu.github.io/support_en/
+
 You can use the [editor on GitHub](https://github.com/overlordyu/support_cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
