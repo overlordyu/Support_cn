@@ -1,18 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to RandomLife App
 
-**Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![3501660618343_.pic.jpg](https://note.youdao.com/yws/res/54283/WEBRESOURCEdaa98783d9e713ef89dc75f70340b664)
+**Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![3501660618343_.pic.jpg](https://github.com/overlordyu/support_cn/blob/main/Facebook.jpg)
 
-**Twitter**主页：**Overlord_yu**![3491660618342_.pic.jpg](https://note.youdao.com/yws/res/54279/WEBRESOURCE33a46d15e122a9b9b6a55017e0fe8124)
+**Twitter**主页：**Overlord_yu**![3491660618342_.pic.jpg](https://github.com/overlordyu/support_cn/blob/main/twitter.jpg)
 
-logo:![applogo_clear.png](https://note.youdao.com/yws/res/54266/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6)
+logo:![applogo_clear.png](https://github.com/overlordyu/support_cn/blob/main/appLogo_clear.png)
 
-bottom_logo:![applogo_bannerclear.png](https://note.youdao.com/yws/res/54263/WEBRESOURCE41b881f5acd7d2e5641b877a1a235a05)
+bottom_logo:![applogo_bannerclear.png](https://github.com/overlordyu/support_cn/blob/main/appLogo_bannerClear.png)
 
-App内部截图：![图片 1.png](https://note.youdao.com/yws/res/54271/WEBRESOURCE0c51dc99412d396f2c33c245f9b45e36)
+App内部截图：![图片 1.png](https://github.com/overlordyu/support_cn/blob/main/%E6%88%AA%E5%9B%BE%E5%90%88%E5%B9%B6.png)
 
 **隐私政策（中文版）**：https://overlordyu.github.io/privacy-policy_cn/
+
 **隐私政策（English）**：https://overlordyu.github.io/privacy-policy_en/
+
 **技术支持（中文版）**：https://overlordyu.github.io/support_cn/
+
 **技术支持（English）**：https://overlordyu.github.io/support_en/
 
 You can use the [editor on GitHub](https://github.com/overlordyu/support_cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
