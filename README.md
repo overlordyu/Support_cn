@@ -1,6 +1,14 @@
 ## Welcome to GitHub Pages
 
-logo:![Image](https://note.youdao.com/yws/res/54266/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6)
+**Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![3501660618343_.pic.jpg](https://note.youdao.com/yws/res/54283/WEBRESOURCEdaa98783d9e713ef89dc75f70340b664)
+
+**Twitter**主页：**Overlord_yu**![3491660618342_.pic.jpg](https://note.youdao.com/yws/res/54279/WEBRESOURCE33a46d15e122a9b9b6a55017e0fe8124)
+
+logo:![applogo_clear.png](https://note.youdao.com/yws/res/54266/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6)
+
+bottom_logo:![applogo_bannerclear.png](https://note.youdao.com/yws/res/54263/WEBRESOURCE41b881f5acd7d2e5641b877a1a235a05)
+
+App内部截图：![图片 1.png](https://note.youdao.com/yws/res/54271/WEBRESOURCE0c51dc99412d396f2c33c245f9b45e36)
 
 **隐私政策（中文版）**：https://overlordyu.github.io/privacy-policy_cn/
 **隐私政策（English）**：https://overlordyu.github.io/privacy-policy_en/
