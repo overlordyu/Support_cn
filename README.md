@@ -27,4 +27,4 @@
 - [x] **技术支持（中文版）**：[点击查看](https://overlordyu.github.io/support_cn/): https://overlordyu.github.io/privacy-policy_cn/
 - [x] **技术支持（English）**：[点击查看](https://overlordyu.github.io/support_en/): https://overlordyu.github.io/privacy-policy_cn/
 
-- ·如有`问题和反馈`，请联系：**Email：18767529430@163.com**
+- 如有`问题和反馈`，请联系：**Email：18767529430@163.com**
