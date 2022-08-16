@@ -2,13 +2,13 @@
 
 **Facebook**主页：https://www.facebook.com/profile.php?id=100013148490252 ![Facebook主页](https://raw.githubusercontent.com/overlordyu/support_cn/main/Facebook.jpg)
 
-**Twitter**主页：**Overlord_yu** ![Twitter主页](https://github.com/overlordyu/support_cn/blob/main/twitter.jpg)
+**Twitter**主页：**Overlord_yu** ![Twitter主页](https://raw.githubusercontent.com/overlordyu/support_cn/main/twitter.jpg)
 
-logo: ![App Logo](https://github.com/overlordyu/support_cn/blob/main/appLogo_clear.png)
+logo: ![App Logo](https://raw.githubusercontent.com/overlordyu/support_cn/main/appLogo_clear.png)
 
-bottom_logo: ![App bannerLogo](https://github.com/overlordyu/support_cn/blob/main/appLogo_bannerClear.png)
+bottom_logo: ![App bannerLogo](https://raw.githubusercontent.com/overlordyu/support_cn/main/appLogo_bannerClear.png)
 
-App内部截图：![App screenshot](https://github.com/overlordyu/support_cn/blob/main/%E6%88%AA%E5%9B%BE%E5%90%88%E5%B9%B6.png)
+App内部截图：![App screenshot](https://raw.githubusercontent.com/overlordyu/support_cn/main/%E6%88%AA%E5%9B%BE%E5%90%88%E5%B9%B6.png)
 
 **隐私政策（中文版）**：[点击查看](https://overlordyu.github.io/privacy-policy_cn/): https://overlordyu.github.io/privacy-policy_cn/
 
