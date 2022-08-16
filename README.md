@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-logo:![applogo_clear.png](https://note.youdao.com/yws/res/6/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6 =150x60)
+logo:![applogo_clear.png](https://note.youdao.com/yws/res/6/WEBRESOURCE5c6b5d21622f3e3b9f6341fce92268f6)
 
 You can use the [editor on GitHub](https://github.com/overlordyu/support_cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
