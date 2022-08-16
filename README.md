@@ -10,13 +10,13 @@ bottom_logo: ![App bannerLogo](https://github.com/overlordyu/support_cn/blob/mai
 
 App内部截图：![App screenshot](https://github.com/overlordyu/support_cn/blob/main/%E6%88%AA%E5%9B%BE%E5%90%88%E5%B9%B6.png)
 
-**隐私政策（中文版）**：[点击链接查看](https://overlordyu.github.io/privacy-policy_cn/)
+**隐私政策（中文版）**：[点击查看](https://overlordyu.github.io/privacy-policy_cn/): https://overlordyu.github.io/privacy-policy_cn/
 
-**隐私政策（English）**：[点击链接查看](https://overlordyu.github.io/privacy-policy_en/)
+**隐私政策（English）**：[点击查看](https://overlordyu.github.io/privacy-policy_en/): https://overlordyu.github.io/privacy-policy_cn/
 
-**技术支持（中文版）**：[点击链接查看](https://overlordyu.github.io/support_cn/)
+**技术支持（中文版）**：[点击查看](https://overlordyu.github.io/support_cn/): https://overlordyu.github.io/privacy-policy_cn/
 
-**技术支持（English）**：[点击链接查看](https://overlordyu.github.io/support_en/)
+**技术支持（English）**：[点击查看](https://overlordyu.github.io/support_en/): https://overlordyu.github.io/privacy-policy_cn/
 
 You can use the [editor on GitHub](https://github.com/overlordyu/support_cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
